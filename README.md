@@ -13,20 +13,25 @@
 3. Install the [Microsoft Azure Storage Explorer](https://azure.microsoft.com/en-us/products/storage/storage-explorer/)
 4. Run the [Microsoft Azurite Storage Emulator](https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azurite?tabs=visual-studio%2Cblob-storage)
 
-## Core Activity
+## Core / Extension Activity
 
 For this exercise you should get a a full stack web application working in Azure. You can create something simple and new or you may use an existing application, e.g. the cinema challenge and build a simple front end using technology you choose. You should build using the following approach:
 
 - Use the provided back end ToDo API 
 - Use the provided React Front end and host in an Azure Static Website
+- Complete a pull request when you have finished the exercise. 
 
-## Extension Activity
 
-- Swap out the InMemory database for a cloud hosted one (db credentials will be provided)
+## Optional Activity
+
+- Swap out the InMemory database for a cloud hosted one e.g. your NEON instance
 
 ## Notes
 
-- We will be only using free tiers to create Azure items.
+- Where applicable: 
+	- using free tiers (F1) to create Azure items
+	- use the students_infrastructure Resource Group 
+	- the region: North Europe
+
 - Use the [Microsoft Azurite Storage Emulator](https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azurite?tabs=visual-studio%2Cblob-storage)
 - Use the [Microsoft Azure Storage Explorer](https://azure.microsoft.com/en-us/products/storage/storage-explorer/)
-- FYI this is a legacy product (so ignore!): [Microsoft Azure Storage Emulator](https://learn.microsoft.com/en-us/azure/storage/common/storage-use-emulator)
