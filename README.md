@@ -10,8 +10,8 @@
 
 1. Fork this repository
 2. Clone your fork to your machine
-3. Install the [Microsoft Azure Storage Explorer](https://azure.microsoft.com/en-us/products/storage/storage-explorer/)
-4. Run the [Microsoft Azurite Storage Emulator](https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azurite?tabs=visual-studio%2Cblob-storage)
+3. Pull Request on completion
+
 
 ## Core / Extension Activity
 
@@ -33,5 +33,4 @@ For this exercise you should get a a full stack web application working in Azure
 	- use the students_infrastructure Resource Group 
 	- the region: North Europe
 
-- Use the [Microsoft Azurite Storage Emulator](https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azurite?tabs=visual-studio%2Cblob-storage)
-- Use the [Microsoft Azure Storage Explorer](https://azure.microsoft.com/en-us/products/storage/storage-explorer/)
+
